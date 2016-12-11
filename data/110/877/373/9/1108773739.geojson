@@ -9,7 +9,7 @@
     "geom:bbox":"-81.08241,32.84886,-80.03832,33.776447",
     "geom:latitude":33.293316,
     "geom:longitude":-80.569023,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4642742911.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 39",
     "uscensus:sldust":"039",
     "uscensus:statefp":"45",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488158,
     "wof:geomhash":"252aba7c18663f5224681a5b19fc48a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
     "wof:id":1108773739,
     "wof:lastmodified":1481488158,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688683,
     "wof:repo":"whosonfirst-data-constituency-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

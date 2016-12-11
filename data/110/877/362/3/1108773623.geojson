@@ -9,7 +9,7 @@
     "geom:bbox":"-80.05027,32.779657,-79.91565,32.85772",
     "geom:latitude":32.815327,
     "geom:longitude":-79.979292,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":34718254.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District HD-111",
     "uscensus:sldlst":"111",
     "uscensus:statefp":"45",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488131,
     "wof:geomhash":"d94a11b0ed1bac1e9740ea929f963937",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
     "wof:id":1108773623,
     "wof:lastmodified":1481488131,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688683,
     "wof:repo":"whosonfirst-data-constituency-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

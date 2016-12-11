@@ -9,7 +9,7 @@
     "geom:bbox":"-80.88037,33.64391,-80.132269,34.367958",
     "geom:latitude":34.040512,
     "geom:longitude":-80.497517,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1803579020.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 35",
     "uscensus:sldust":"035",
     "uscensus:statefp":"45",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488156,
     "wof:geomhash":"0ae72c0f5db31dcb027c535232ce4a2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
     "wof:id":1108773731,
     "wof:lastmodified":1481488156,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688683,
     "wof:repo":"whosonfirst-data-constituency-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

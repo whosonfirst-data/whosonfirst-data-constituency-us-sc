@@ -9,7 +9,7 @@
     "geom:bbox":"-80.91628,33.176907,-80.22148,33.56541",
     "geom:latitude":33.372372,
     "geom:longitude":-80.589472,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1456484521.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District HD-066",
     "uscensus:sldlst":"066",
     "uscensus:statefp":"45",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488119,
     "wof:geomhash":"672656cb6ee66bf4d5b7696531f73486",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
     "wof:id":1108773521,
     "wof:lastmodified":1481488119,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688683,
     "wof:repo":"whosonfirst-data-constituency-us-sc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
